@@ -21,6 +21,8 @@ p {
     font-size: 10px;
     margin-bottom: 50px;
     margin-top: 20px;
+    width : 100px;
+    overflow-wrap: break-word;
 }
 
 .top {
